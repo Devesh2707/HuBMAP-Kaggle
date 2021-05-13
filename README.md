@@ -38,11 +38,11 @@ There are over 600,000 glomeruli in each human kidney. Normal glomeruli typicall
 
 Loss:
 
-<img src="/home/devesh/Kaggle HuBMAP/images/Loss_Epoch.png" alt="Loss_Epoch" style="zoom:33%;" />
+<img src="Loss_Epoch.png" alt="Loss_Epoch" style="zoom:25%;" />
 
 Metric:
 
-<img src="/home/devesh/Kaggle HuBMAP/images/Metric.png" alt="Metric" style="zoom:33%;" />
+<img src="Metric.png" alt="Metric" style="zoom:25%;" />
 
 Public Leaderboard Score - 0.923
 
